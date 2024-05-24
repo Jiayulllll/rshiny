@@ -9,7 +9,6 @@ Built using:
 - R 
 - R shiny 
 - CSS
-In the /my-web, you can run:
 
 ### see the live visualisation
 https://tristalalala.shinyapps.io/rshiny/
